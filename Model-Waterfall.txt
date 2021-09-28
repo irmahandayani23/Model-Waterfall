@@ -1,10 +1,14 @@
-Model Waterfall
-Definisi: Model Waterfall (model air terjun) merupakan suatu model pengembangan secara sekuensial.
-Studi Kasus: Uraikan
-Langkah-langkah pengerjaan
-- Analisis Kebutuhan
-- Perancangan Sistem
-- Implementasi
-- Testing
-- Deploy
-- Maintenance
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Atribut Noshade pada tag HR</title>
+</head>
+<body>
+	<h1>Kebun Pesona</h1>
+	<hr size="10" noshade>
+	jl. Solo km 14<br>
+	surabaya<br>
+	Indonesia<br>
+
+</body>
+</html>
